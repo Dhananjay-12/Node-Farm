@@ -1,0 +1,27 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhananjay-12/Node-Farm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhananjay-12/Node-Farm/issues"
+  },
+  "homepage": "https://github.com/Dhananjay-12/Node-Farm#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "slugify": "^1.6.5"
+  }
+}
